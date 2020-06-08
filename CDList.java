@@ -3,6 +3,9 @@ package CDlist;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+// Author: Christian Vincent
+// Date last edited: 2/6/2019
+
 public class CDList<E> implements Cloneable {
     //--------------nested node class------------
     private static class Node<E> {
