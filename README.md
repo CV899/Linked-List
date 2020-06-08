@@ -1,2 +1,4 @@
 # Linked-List
- This is my implementation of a linked list for a data structures project.
+ An implementation of a linked list for COP3530 - Data Structures that makes use of Java Generics framework, cloning, 
+ equivalence testing and manipulating linked list elements.
+
